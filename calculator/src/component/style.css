@@ -1,0 +1,27 @@
+.conatiner{
+    justify-content: center;
+    text-align: center;
+    
+}
+.field1, .field2{
+    padding-bottom: 30px;
+    font-size: 2rem;
+}
+input {
+    font-size: 1.5rem;
+}
+
+button{
+    font-size: 2.5rem;
+    padding: 10px 20px;
+    justify-content: center;
+    text-align: center;
+    margin-right: 50px;
+    background-color: #635147;
+    color: bisque;
+}
+
+.result{
+    font-size: 2rem;
+    padding: 30px 0;
+}
