@@ -48,7 +48,7 @@ function TodoList() {
 
   return (
     <div className="container py-4 border rounded shadow bg-light mt-3">
-      <h1 className="text-center mb-4">TODO LIST APP</h1>
+      <h1 className="text-center mb-4 todo">TODO LIST APP</h1>
       <div className="input-group mb-3">
         <input
           type="text"

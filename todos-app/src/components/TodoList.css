@@ -2,12 +2,17 @@
     text-decoration: line-through;
   }
   
-  /* .task-text {
+  .task-text {
     flex-grow: 1; 
   }
   .container {
     background-color: #f8f9fa; 
     background-size: cover; 
     background-position: center;
+    width: 60%;
   }
-   */
+  .todo {
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-shadow: 3px 3px gray
+  }
